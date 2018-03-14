@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Hello world!"
-date: 2018-03-12 23:53:00 -0600
 categories: meta
 ---
 
