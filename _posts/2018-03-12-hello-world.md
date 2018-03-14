@@ -5,7 +5,6 @@ date: 2018-03-12 23:53:00 -0600
 categories: meta
 ---
 
-
 Greetings!
 
 I'm jackson1442, and I do lots of things. First and foremost, I'm a student.
