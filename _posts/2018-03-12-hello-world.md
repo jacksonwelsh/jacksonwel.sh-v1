@@ -1,7 +1,13 @@
 ---
-title: "Hello world!"
-categories: meta
+layout: post
+title: Hello World!
+category: Meta
+
+excerpt: I'm jackson1442, and I do lots of things. First and foremost, I'm a student.
+I'm also working on teaching myself how to write apps for iOS.
+
 ---
+
 
 Greetings!
 
