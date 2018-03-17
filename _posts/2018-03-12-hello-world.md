@@ -1,9 +1,7 @@
 ---
-
-layout: post
 title: "Hello World!"
-
-excerpt: "I'm jackson1442, and I do lots of things. First and foremost, I'm a student.
+date: 2018-03-12 12:00:00 -0600
+excerpt: "I'm Jackson, and I do lots of things. First and foremost, I'm a student.
 I'm also working on teaching myself how to write apps for iOS."
 
 ---
@@ -11,7 +9,7 @@ I'm also working on teaching myself how to write apps for iOS."
 
 Greetings!
 
-I'm jackson1442, and I do lots of things. First and foremost, I'm a student.
+I'm Jackson, and I do lots of things. First and foremost, I'm a student.
 I'm also working on teaching myself how to write apps for iOS.
 
 So far, I've created many things that have oddly specific uses, like a python
