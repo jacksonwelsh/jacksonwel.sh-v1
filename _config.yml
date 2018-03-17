@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Jackson Welsh"
 description              : "A website and portfolio for jackson1442"
 url                      : "https://jackson1442.github.io"
-baseurl                  : 
+baseurl                  : ""
 repository               : "jackson1442/jackson1442.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
