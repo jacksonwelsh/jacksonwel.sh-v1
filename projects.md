@@ -12,7 +12,7 @@ excerpt: "A collection of all of my projects from over the years, all accessible
 from one place."
 
 row1:
-  - image_path: /assets/images/Reddit_Logo.png
+  - image_path: /assets/images/Reddit_Logo-2.png
     alt: "reddit logo"
     title: "Flairbot for reddit"
     excerpt: "A moderation tool for reddit that flairs posts according to community
