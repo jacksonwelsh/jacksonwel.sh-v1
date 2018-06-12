@@ -8,7 +8,7 @@ share: true
 related: false
 toc: true
 classes: wide
-permalink: "/article13"
+permalink: "/article13/"
 ---
 
 # Article 13
