@@ -7,7 +7,6 @@ comments: false
 share: true
 related: false
 toc: true
-classes: wide
 permalink: "/article13/"
 ---
 
