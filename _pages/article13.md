@@ -101,6 +101,6 @@ can have to stop this. Every little bit helps.
 
 ## Here's some sources with more reading:
 
-* https://saveyourinternet.eu
-* https://www.eff.org/deeplinks/2018/06/eus-copyright-proposal-extremely-bad-news-everyone-even-especially-wikipedia
-* https://www.bbc.com/news/technology-44412025
+* [https://saveyourinternet.eu](https://saveyourinternet.eu)
+* [https://www.eff.org/deeplinks/2018/06/eus-copyright-proposal-extremely-bad-news-everyone-even-especially-wikipedia](https://www.eff.org/deeplinks/2018/06/eus-copyright-proposal-extremely-bad-news-everyone-even-especially-wikipedia)
+* [https://www.bbc.com/news/technology-44412025](https://www.bbc.com/news/technology-44412025)
