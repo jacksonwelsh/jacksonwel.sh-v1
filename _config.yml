@@ -259,4 +259,4 @@ defaults:
       comments: # true
       share: true
       related: true
-include: ["_pages", "/assets/images", "flairBot]
+include: ["_pages/", "/assets/images"]
