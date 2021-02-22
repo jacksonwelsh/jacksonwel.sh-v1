@@ -1,5 +1,10 @@
 module.exports = {
-  purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+  purge: {
+    content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+    options: {
+      safelist: [/bg-gradient-.*/]
+    }
+  },
   darkMode: 'media', // or 'media' or 'class'
   theme: {
     fontFamily: {
@@ -12,7 +17,7 @@ module.exports = {
         github: '#181717'
       },
       screens: {
-        'xs': '576px'
+        'xs': '576px' 
       }
     },
   },
