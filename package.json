@@ -1,10 +1,11 @@
 {
-  "name": "lights",
+  "name": "jacksonsite",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
     "social-login-buttons": "0.0.4",
@@ -17,6 +18,7 @@
     "autoprefixer": "^10.2.4",
     "postcss": "^8.2.6",
     "tailwindcss": "^2.0.3",
-    "vite": "^2.0.1"
+    "vite": "^2.0.1",
+    "execa": "latest"
   }
 }
