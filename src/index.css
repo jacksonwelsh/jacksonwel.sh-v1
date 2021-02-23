@@ -12,9 +12,9 @@
 
 @font-face {
   font-family: "Graphik";
-  src:  url("src/fonts/Graphik-Regular.ttf") format("truetype"),
-        url("src/fonts/Graphik-Bold.ttf") format("truetype"),
-        url("src/fonts/Graphik-Medium.ttf") format("truetype"),
-        url("src/fonts/Graphik-Black.ttf") format("truetype"),
-        url("src/fonts/Graphik-Semibold.ttf") format("truetype");
+  src:  url("assets/fonts/Graphik-Regular.ttf") format("truetype"),
+        url("assets/fonts/Graphik-Bold.ttf") format("truetype"),
+        url("assets/fonts/Graphik-Medium.ttf") format("truetype"),
+        url("assets/fonts/Graphik-Black.ttf") format("truetype"),
+        url("assets/fonts/Graphik-Semibold.ttf") format("truetype");
 }
