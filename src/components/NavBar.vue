@@ -1,5 +1,5 @@
 <template>
-    <div class="h-14 border-b dark:border-none dark:bg-black flex content-center items-center px-5 text-gray-900 dark:text-gray-100 justify-between">
+    <div class="h-14 border-b dark:border-gray-500 flex content-center items-center px-5 text-gray-900 dark:text-gray-100 justify-between">
         <div class="w-48">
             <router-link to="/" class="w-full whitespace-nowrap">
                 <h1 class="text-xl font-hand">Jackson Welsh</h1>
