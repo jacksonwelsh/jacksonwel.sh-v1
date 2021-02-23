@@ -4,7 +4,7 @@
     <div class="text-gray-100">
       <section-header title="My backstory" />
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <div class="grid grid-cols-1 gap-5 h-0">
+        <div class="grid grid-cols-1 gap-5 h-full md:h-0">
           <p>
             I'm a Texas native, currently attending the University of North
             Texas in Denton in pursuit of a B.S. in Computer Science. Because I
