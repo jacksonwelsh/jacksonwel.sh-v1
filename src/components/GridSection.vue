@@ -5,7 +5,7 @@
     <h2 class="whitespace-nowrap mr-4">{{ title }}</h2>
     <div class="border-b border-gray-900 dark:border-white w-full h-4" />
   </div>
-  <div class="grid grid-cols-1 lg:grid-cols-3 gap-10 mt-10">
+  <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-10 mt-10">
     <slot></slot>
   </div>
 </template>

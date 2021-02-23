@@ -97,9 +97,9 @@
             >
           </p>
         </Card>
-        <div />
+        <div class="hidden xl:inline-flex" />
         <Card
-          title="Oh yeah, I have GitHub"
+          title="Oh yeah, I have GitHub."
           gradFrom="from-gray-900 text-gray-100"
           gradTo="to-gray-700"
         >
