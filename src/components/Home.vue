@@ -97,6 +97,30 @@
             >
           </p>
         </Card>
+        <div />
+        <Card
+          title="Oh yeah, I have GitHub"
+          gradFrom="from-gray-900 text-gray-100"
+          gradTo="to-gray-700"
+        >
+          <p class="w-full text-gray-100">
+            <em>Nerds.</em>
+          </p>
+          <p class="w-full text-gray-100">
+            My username's
+            <a
+              class="font-semibold text-gray-200 hover:text-white hover:underline transition-all"
+              href="//github.com/jacksonwelsh"
+              >@jacksonwelsh</a
+            >
+            and this site's source is
+            <a
+              class="font-semibold text-gray-200 hover:text-white hover:underline transition-all"
+              href="//github.com/jacksonwelsh/jacksonwelsh.github.io"
+              >here.</a
+            >
+          </p>
+        </Card>
       </grid-section>
     </div>
   </div>
