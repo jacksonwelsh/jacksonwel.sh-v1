@@ -4,7 +4,7 @@
     :class="[ghostLeft ? '-rotate-2' : 'rotate-2']"
   >
     <div
-      class="p-10 shadow-md rounded-xl object-center text-center transform rotate-2 h-full flex flex-wrap justify-center"
+      class="p-10 shadow-md rounded-xl object-center text-center transform rotate-2 h-full flex flex-wrap justify-center hover:scale-105 transition-all"
       :class="[bgOptions, ghostLeft ? 'rotate-2' : '-rotate-2']"
     >
       <h2 class="text-3xl font-black w-full">{{ title }}</h2>

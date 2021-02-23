@@ -3,9 +3,18 @@
 @tailwind utilities;
 
 #app {
-    min-height: 100vh;
+  min-height: 100vh;
 }
 
 .full-container {
-    height: calc(100vh - 3.5rem);
+  height: calc(100vh - 3.5rem);
+}
+
+@font-face {
+  font-family: "Graphik";
+  src:  url("src/fonts/Graphik-Regular.ttf") format("truetype"),
+        url("src/fonts/Graphik-Bold.ttf") format("truetype"),
+        url("src/fonts/Graphik-Medium.ttf") format("truetype"),
+        url("src/fonts/Graphik-Black.ttf") format("truetype"),
+        url("src/fonts/Graphik-Semibold.ttf") format("truetype");
 }
