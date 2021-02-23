@@ -32,7 +32,7 @@
           <img
             class="w-auto rounded-xl"
             style="height: 512px"
-            :id="selfie"
+            id="selfie"
           />
         </div>
       </div>
@@ -42,14 +42,15 @@
 <script>
 import Hero from "./Hero.vue";
 import SectionHeader from "./SectionHeader.vue";
-
 import imgUrl from '../assets/about_pic.jpg'
-document.getElementById('selfie').src = imgUrl
 
 export default {
   components: {
     Hero,
     SectionHeader,
   },
+  mounted() {
+    document.getElementById('selfie').src = imgUrl
+  }
 };
 </script>
