@@ -8,8 +8,7 @@ module.exports = {
   darkMode: 'media', // or 'media' or 'class'
   theme: {
     fontFamily: {
-      sans: ['Graphik', 'sans-serif'],
-      serif: ['Merriweather', 'serif'],
+      sans: ['IBM\\ Plex\\ Sans', 'sans-serif'],
       hand: ['Rock\\ Salt', 'serif']
     },
     extend: {

@@ -29,29 +29,35 @@
           gradFrom="from-yellow-200 dark:from-yellow-700"
           gradTo="to-yellow-500 dark:to-yellow-400"
         >
-          Tutored in math and computer science related courses from the high
-          school to college (2000) level.
+          <p>
+            I tutor in math and computer science related courses from the high
+            school to college (2000) level.
+          </p>
+          <p><em>Currently not accepting new clients.</em></p>
         </Card>
       </grid-section>
       <grid-section title="Things I've made">
-        <Card 
-          title="Geo4.Dev"
-          gradFrom="from-blue-500"
-          gradTo="to-blue-300"
-        >
-          A website to help surface timely and relevant geospatial data for researchers about developing countries. It's based on CKAN.<br />
-          <a href="//geo4.dev" target="_blank" class="font-semibold text-gray-900 hover:text-black hover:underline transition-all">Check it out →</a>
+        <Card title="Geo4.Dev" gradFrom="from-blue-500" gradTo="to-blue-300">
+          A website to help surface timely and relevant geospatial data for
+          researchers about developing countries. It's based on CKAN.<br />
+          <a
+            href="//geo4.dev"
+            target="_blank"
+            class="font-semibold text-gray-900 hover:text-black hover:underline transition-all"
+            >Check it out →</a
+          >
         </Card>
-        <Card 
+        <Card
           title="The Dragon Band Fundraising Website"
           gradFrom="from-red-700"
           gradTo="to-gray-400"
         >
-          A novel website to assist the RRHS band in fundraising, simplifying data collection and aggregation.
+          A novel website to assist the RRHS band in fundraising, simplifying
+          data collection and aggregation.
         </Card>
       </grid-section>
       <grid-section title="How to find me">
-        <Card 
+        <Card
           title="I have email."
           gradFrom="from-red-500"
           gradTo="to-yellow-700"
@@ -59,22 +65,37 @@
           <p class="w-full"><em>Surprising as it may be.</em></p>
           <p class="w-full">I do hate spam though, so it's me@thisdomain.</p>
         </Card>
-        <Card 
+        <Card
           title="Twitter works, too."
           gradFrom="from-blue-300"
           gradTo="to-blue-600"
           gradDir="t"
         >
           <p class="w-full"><em>Enjoy.</em></p>
-          <p class="w-full">I'm <a class="font-semibold text-gray-900 hover:text-black hover:underline transition-all" href="//twitter.com/_jacksonwelsh">@_jacksonwelsh.</a></p>
+          <p class="w-full">
+            I'm
+            <a
+              class="font-semibold text-gray-900 hover:text-black hover:underline transition-all"
+              href="//twitter.com/_jacksonwelsh"
+              >@_jacksonwelsh.</a
+            >
+          </p>
         </Card>
-        <Card 
+        <Card
           title="I also have Linkedin for all you recruiter-types."
           gradFrom="from-indigo-600"
           gradTo="to-indigo-400"
         >
-          <p class="w-full"><em>I can't even come up with something snarky to say here...</em></p>
-          <p class="w-full"><a class="font-semibold text-gray-900 hover:text-black hover:underline transition-all" href="//linkedin.com/in/jacksonwelsh">/in/jacksonwelsh</a></p>
+          <p class="w-full">
+            <em>I can't even come up with something snarky to say here...</em>
+          </p>
+          <p class="w-full">
+            <a
+              class="font-semibold text-gray-900 hover:text-black hover:underline transition-all"
+              href="//linkedin.com/in/jacksonwelsh"
+              >/in/jacksonwelsh</a
+            >
+          </p>
         </Card>
       </grid-section>
     </div>
