@@ -1,13 +1,12 @@
 <template>
   <div
-    class="transform p-1 shadow-md w-auto bg-gray-200 dark:bg-gray-700 rounded-xl"
-    :class="[ghostLeft ? '-rotate-2' : 'rotate-2']"
+    class="p-1"
+    :class="bgOptions"
   >
     <div
-      class="p-10 shadow-md rounded-xl object-center text-center transform rotate-2 h-full flex flex-wrap justify-center hover:scale-105 transition-all"
-      :class="[bgOptions, ghostLeft ? 'rotate-2' : '-rotate-2']"
+      class="p-10 object-center text-center h-full w-full flex flex-wrap justify-center bg-gray-900 text-gray-200"
     >
-      <h2 class="text-3xl font-black w-full">{{ title }}</h2>
+      <h2 class="text-3xl font-black w-full font-mono">{{ title }}</h2>
       <slot> </slot>
     </div>
   </div>

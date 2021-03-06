@@ -18,7 +18,7 @@
         ghostLeft="false"
       >
         Lead developer of the&nbsp;<a
-          class="font-semibold text-gray-900 hover:text-black hover:underline transition-all"
+          class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
           href="//geo4.dev"
           >Geo4Dev initiative's new website</a
         >.
@@ -42,55 +42,43 @@
         <a
           href="//geo4.dev"
           target="_blank"
-          class="font-semibold text-gray-900 hover:text-black hover:underline transition-all"
+          class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
           >Check it out →</a
         >
       </Card>
       <Card
         title="The Dragon Band Fundraising Website"
-        gradFrom="from-red-700"
-        gradTo="to-gray-400"
+        gradFrom="from-red-600"
+        gradTo="to-red-900"
       >
         A novel website to assist the RRHS band in fundraising, simplifying data
         collection and aggregation.
       </Card>
     </grid-section>
     <grid-section title="How to find me">
-      <Card
-        title="I have email."
-        gradFrom="from-red-500"
-        gradTo="to-yellow-700"
-      >
-        <p class="w-full"><em>Surprising as it may be.</em></p>
-        <p class="w-full">I do hate spam though, so it's me@thisdomain.</p>
+      <Card title="Email." gradFrom="from-red-500" gradTo="to-yellow-700">
+        <p class="w-full">
+          me@this.domain, you'll need to fill it in yourself.
+        </p>
       </Card>
       <Card
-        title="Twitter works, too."
+        title="Twitter."
         gradFrom="from-blue-300"
         gradTo="to-blue-600"
         gradDir="t"
       >
-        <p class="w-full"><em>Enjoy.</em></p>
         <p class="w-full">
-          I'm
           <a
-            class="font-semibold text-gray-900 hover:text-black hover:underline transition-all"
+            class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
             href="//twitter.com/_jacksonwelsh"
-            >@_jacksonwelsh.</a
+            >@_jacksonwelsh</a
           >
         </p>
       </Card>
-      <Card
-        title="I also have Linkedin for all you recruiter-types."
-        gradFrom="from-indigo-600"
-        gradTo="to-indigo-400"
-      >
-        <p class="w-full">
-          <em>I can't even come up with something snarky to say here...</em>
-        </p>
+      <Card title="Linkedin." gradFrom="from-indigo-600" gradTo="to-indigo-400">
         <p class="w-full">
           <a
-            class="font-semibold text-gray-900 hover:text-black hover:underline transition-all"
+            class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
             href="//linkedin.com/in/jacksonwelsh"
             >/in/jacksonwelsh</a
           >
@@ -98,25 +86,15 @@
       </Card>
       <div class="hidden xl:inline-flex" />
       <Card
-        title="Oh yeah, I have GitHub."
-        gradFrom="from-gray-900 text-gray-100"
-        gradTo="to-gray-700"
+        title="GitHub."
+        gradFrom="from-gray-700 text-gray-100"
+        gradTo="to-gray-500"
       >
         <p class="w-full text-gray-100">
-          <em>Nerds.</em>
-        </p>
-        <p class="w-full text-gray-100">
-          My username's
           <a
-            class="font-semibold text-gray-200 hover:text-white hover:underline transition-all"
+            class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
             href="//github.com/jacksonwelsh"
             >@jacksonwelsh</a
-          >
-          and this site's source is
-          <a
-            class="font-semibold text-gray-200 hover:text-white hover:underline transition-all"
-            href="//github.com/jacksonwelsh/jacksonwelsh.github.io"
-            >here.</a
           >
         </p>
       </Card>
