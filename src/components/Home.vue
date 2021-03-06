@@ -18,7 +18,7 @@
         ghostLeft="false"
       >
         Lead developer of the&nbsp;<a
-          class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
+          class="font-semibold text-gray-900 hover:text-black dark:text-gray-100 dark:hover:text-white hover:underline transition-all"
           href="//geo4.dev"
           >Geo4Dev initiative's new website</a
         >.
@@ -42,7 +42,7 @@
         <a
           href="//geo4.dev"
           target="_blank"
-          class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
+          class="font-semibold text-gray-900 hover:text-black dark:text-gray-100 dark:hover:text-white hover:underline transition-all"
           >Check it out →</a
         >
       </Card>
@@ -69,7 +69,7 @@
       >
         <p class="w-full">
           <a
-            class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
+            class="font-semibold text-gray-900 hover:text-black dark:text-gray-100 dark:hover:text-white hover:underline transition-all"
             href="//twitter.com/_jacksonwelsh"
             >@_jacksonwelsh</a
           >
@@ -78,7 +78,7 @@
       <Card title="Linkedin." gradFrom="from-indigo-600" gradTo="to-indigo-400">
         <p class="w-full">
           <a
-            class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
+            class="font-semibold text-gray-900 hover:text-black dark:text-gray-100 dark:hover:text-white hover:underline transition-all"
             href="//linkedin.com/in/jacksonwelsh"
             >/in/jacksonwelsh</a
           >
@@ -87,12 +87,12 @@
       <div class="hidden xl:inline-flex" />
       <Card
         title="GitHub."
-        gradFrom="from-gray-700 text-gray-100"
+        gradFrom="from-gray-700"
         gradTo="to-gray-500"
       >
-        <p class="w-full text-gray-100">
+        <p class="w-full">
           <a
-            class="font-semibold text-gray-100 hover:text-white hover:underline transition-all"
+            class="font-semibold text-gray-900 hover:text-black dark:text-gray-100 dark:hover:text-white hover:underline transition-all"
             href="//github.com/jacksonwelsh"
             >@jacksonwelsh</a
           >

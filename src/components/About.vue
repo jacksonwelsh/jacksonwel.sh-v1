@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto px-2 mb-20">
     <Hero title="About me." />
-    <div class="text-gray-100">
+    <div>
       <section-header title="My backstory" />
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div class="grid grid-cols-1 gap-5 h-full md:h-0">

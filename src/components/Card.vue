@@ -4,7 +4,7 @@
     :class="bgOptions"
   >
     <div
-      class="p-10 object-center text-center h-full w-full flex flex-wrap justify-center bg-gray-900 text-gray-200"
+      class="p-10 object-center text-center h-full w-full flex flex-wrap justify-center bg-gray-100 dark:bg-gray-900 dark:text-gray-200"
     >
       <h2 class="text-3xl font-black w-full font-mono">{{ title }}</h2>
       <slot> </slot>

@@ -1,9 +1,9 @@
 <template>
   <div
-    class="h-64 bg-gradient-to-tr p-1 mt-5 flex content-center flex-wrap text-gray-100 dark:text-gray-300"
+    class="h-64 bg-gradient-to-tr p-1 mt-5 flex content-center flex-wrap dark:text-gray-300"
     :class="[gradFrom, gradTo]"
   >
-    <div class="w-full h-full bg-gray-900 flex content-center flex-wrap p-10">
+    <div class="w-full h-full bg-gray-100 dark:bg-gray-900 flex content-center flex-wrap p-10">
       <div class="w-full">
         <h1 class="font-black text-5xl font-mono">{{ title }}</h1>
       </div>
