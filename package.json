@@ -8,6 +8,7 @@
     "deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
+    "@carbon/icons-vue": "^10.27.0",
     "social-login-buttons": "0.0.4",
     "vue": "^3.0.5",
     "vue-router": "^4.0.4"

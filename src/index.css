@@ -9,3 +9,11 @@
 .full-container {
   height: calc(100vh - 3.5rem);
 }
+
+.half-container {
+  height: calc(75vh - 3.5rem);
+}
+
+.flex-basis-full {
+  flex-basis: 100%;
+}

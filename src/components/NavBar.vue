@@ -1,6 +1,6 @@
 <template>
   <div
-    class="h-14 border-b dark:border-gray-500 flex content-center items-center px-5 text-gray-900 dark:text-gray-100 justify-between"
+    class="h-14 border-b dark:border-gray-500 flex content-center items-center px-5 text-gray-900 dark:text-gray-100 justify-between sticky top-0 z-10 dark:bg-gray-900 bg-gray-100 bg-opacity-70" style="backdrop-filter: blur(4px);"
   >
     <div class="w-48">
       <router-link to="/" class="w-full whitespace-nowrap">
@@ -15,9 +15,9 @@
         >about</router-link
       >
       <router-link
-        to="/lights"
+        to="/login"
         class="rounded-lg hover:bg-gray-200 dark:hover:bg-gray-800 p-2 m-2 transition-all"
-        >lights</router-link
+        >login</router-link
       >
       <!--
       <router-link
