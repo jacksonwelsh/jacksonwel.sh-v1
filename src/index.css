@@ -17,3 +17,15 @@
 .flex-basis-full {
   flex-basis: 100%;
 }
+
+.md h1 {
+  @apply font-bold text-4xl;
+}
+
+.md h2 {
+  @apply font-semibold text-3xl;
+}
+
+.md a {
+  @apply underline
+}

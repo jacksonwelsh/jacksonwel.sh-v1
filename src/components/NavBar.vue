@@ -15,9 +15,9 @@
         >about</router-link
       >
       <router-link
-        to="/login"
+        to="/blog"
         class="rounded-lg hover:bg-gray-200 dark:hover:bg-gray-800 p-2 m-2 transition-all"
-        >login</router-link
+        >blog</router-link
       >
       <!--
       <router-link
